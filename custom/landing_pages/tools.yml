@@ -9,7 +9,7 @@ page:
       - type: client_sdk_card
         client_sdk_card:
           name:
-            content: Node-Red
+            content: Node-RED
             color: blue-dark
           icon:
             name: Brand-icon-node-color
